@@ -2,7 +2,7 @@ Web automation made with Selenium 4 and Python.
 
 All sensivity data was hidden.
 
-This script make login in web with user and password. Then it find jobs according with certain conditions.
+This script login into webapp with user and password. Then it find jobs according with certain conditions. It's running on server 24/7.
 
 It was implemented in Digital Ocean with a Dokku droplet.
 
